@@ -1,0 +1,22 @@
+{
+  "name": "rokeyzki.github.io",
+  "version": "1.0.0",
+  "description": "<https://rokeyzki.github.io>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokeyzki/rokeyzki.github.io.git"
+  },
+  "author": "Charles Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokeyzki/rokeyzki.github.io/issues"
+  },
+  "homepage": "https://github.com/rokeyzki/rokeyzki.github.io#readme",
+  "dependencies": {
+    "hexo-cli": "^1.0.2"
+  }
+}
